@@ -13,7 +13,7 @@ thankyou
 
 1. 创建一个名为`FGODailyBonusLog`的仓库，确保`branch`为`main`，点击`creating a new file`
     ![1](imgs/1.jpg)
-
+0
 2. 新建`cfg.json`并复制粘贴
    ```json
    {"global": {"appVer": "2.54.0", "assetbundleFolder": "trb3ulHJR4lI/", "dataServerFolderCrc": 610168911, "dataVer": 1419, "dateVer": 1655046000}}
