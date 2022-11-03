@@ -1,2 +1,3 @@
-update 3账号
+update2
+3账号
 forked from hexstr/FGODailyBonus
